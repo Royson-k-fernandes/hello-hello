@@ -1,6 +1,6 @@
 # Hello Royson-k-fernandes
 
-## Everything is not OK !!! 💔
+## Everything is not OK !!! 💔  🙂
 
 Hello World repository fo Git tutorials...
 
